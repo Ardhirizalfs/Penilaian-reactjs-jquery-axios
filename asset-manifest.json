@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Penilaian-reactjs-jquery-axios/static/css/main.3ccc4064.css",
+    "main.js": "/Penilaian-reactjs-jquery-axios/static/js/main.3a4b9ffc.js",
+    "static/js/787.fed2b6ca.chunk.js": "/Penilaian-reactjs-jquery-axios/static/js/787.fed2b6ca.chunk.js",
+    "index.html": "/Penilaian-reactjs-jquery-axios/index.html",
+    "main.3ccc4064.css.map": "/Penilaian-reactjs-jquery-axios/static/css/main.3ccc4064.css.map",
+    "main.3a4b9ffc.js.map": "/Penilaian-reactjs-jquery-axios/static/js/main.3a4b9ffc.js.map",
+    "787.fed2b6ca.chunk.js.map": "/Penilaian-reactjs-jquery-axios/static/js/787.fed2b6ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ccc4064.css",
+    "static/js/main.3a4b9ffc.js"
+  ]
+}
